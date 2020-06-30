@@ -1,1 +1,1 @@
-# olga_ruby
+# summer_practice_ruby
